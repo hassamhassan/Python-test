@@ -1,8 +1,5 @@
 from __future__ import unicode_literals
-
 from django.db import models
-# from django.contrib.gis.db import models as p_models
-# Create your models here.
 
 
 class Provider(models.Model):

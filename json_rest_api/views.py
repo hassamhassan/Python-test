@@ -1,8 +1,9 @@
-from rest_framework import viewsets
-from models import Provider, ServiceArea
-from serlializer import ProviderSerializer, ServiceAreaSerializer
 from django_filters import MethodFilter
 from rest_framework import filters
+from rest_framework import viewsets
+
+from models import Provider, ServiceArea
+from serlializer import ProviderSerializer, ServiceAreaSerializer
 
 
 class ProviderViewSet(viewsets.ModelViewSet):
