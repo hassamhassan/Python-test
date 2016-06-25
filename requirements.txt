@@ -2,3 +2,4 @@ django == 1.9
 djangorestframework
 django-filter
 markdown
+django-rest-swagger==0.3.3
