@@ -16,7 +16,7 @@ login password: lawson123
 
 Note:
 In the following call: POST => http://hassamhassan.pythonanywhere.com/json_rest_api/service_area/
-The polygon must follow the following format: POLYGON ((lat lng, lat/lng, lat/lng, lat/lng, .......))
+The polygon field value must follow the following format: POLYGON ((lat lng, lat/lng, lat/lng, lat/lng, .......))
 FOR EXAMPLE: POLYGON ((10.0 20, 10 15.8, 30 40.4, 50.9 60))
 
 In order to get list of all polygons that include the given lat/lng use the following endpoint.
