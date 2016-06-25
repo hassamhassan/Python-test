@@ -2,11 +2,13 @@
 This repository contains source files related to python test
 
 ==========================================================================================
+
 *** Login information ***
 In order to login to to the following link: http://hassamhassan.pythonanywhere.com/admin/
 
 login user: adam
 login password: lawson123
+
 ==========================================================================================
 
 *** In order to see API docs go to http://hassamhassan.pythonanywhere.com/docs/ ***
@@ -19,6 +21,7 @@ FOR EXAMPLE:
 http://hassamhassan.pythonanywhere.com/json_rest_api/service_area/?polygon=50.9/60
 
 Keep the value of polygon in following format: lat/lng
+
 ==========================================================================================
 *** Django Rest FrameWork Urls ***
 Apart from API docs some DRF urls are also available:
